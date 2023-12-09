@@ -1,4 +1,4 @@
-#Author: Jherron Brown
+#Author: Jherronn Brown
 #Date Created: Dec 5, 2023
 #Course:ITT103
 #Purpose:This program manages seat reservations for UCC Signature Express, allowing users to 
