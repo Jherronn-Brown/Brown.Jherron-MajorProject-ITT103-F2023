@@ -1,6 +1,6 @@
 #Author: Jherronn Brown
 #Date Created: Dec 5, 2023
-#Course:ITT103
+#Course:Programming Techniques ITT103
 #Purpose:This program manages seat reservations for UCC Signature Express, allowing users to 
 #reserve a seat on 1 of 3 classes of bus and checking availability before assigning it. 
 #It takes into account the differences in availability between bus types.
