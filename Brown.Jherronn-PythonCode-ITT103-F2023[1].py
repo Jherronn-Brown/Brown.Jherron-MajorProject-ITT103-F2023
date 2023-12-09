@@ -52,9 +52,9 @@ def bookAgain():
 def summary():
     # Display the reservation summary
         global fname , lname
+        print("-----RESERVATION-----\n")
         print("Client:",fName, lName)
         print("Contact Info:",telN,"\n", email)
-        print("-----RESERVATION-----\n")
         print("Reservation type:", selectedClass)
         print("Total number of seats:", totalReservations)
 
